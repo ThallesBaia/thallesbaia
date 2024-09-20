@@ -1,0 +1,48 @@
+body {
+    color: white;
+    background: black;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+}
+body {
+    color: white;
+    background: black;
+    margin: 0;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section {
+    background: rgb(184, 156, 213);
+    padding: 80px 0; /* 80px em cima e embaixo */
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%; /* Margem de 5% à direita */
+}
+
+.video-container {
+    /* Estilos para o container do vídeo */
+}
